@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Tetris_V1">
+    <output-path>$PROJECT_DIR$/out/artifacts/Tetris_V1</output-path>
+    <root id="root">
+      <element id="archive" name="Tetris_V1.jar">
+        <element id="module-output" name="Tetris_V1" />
+        <element id="library" level="project" name="lib" />
+      </element>
+    </root>
+  </artifact>
+</component>
